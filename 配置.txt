@@ -1,0 +1,2 @@
+1. 安装selenium：http://www.testclass.net/selenium_python/install-selenium/
+2. 配置selenium3浏览器驱动：http://www.testclass.net/selenium_python/selenium3-browser-driver
